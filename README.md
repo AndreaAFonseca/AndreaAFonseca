@@ -110,11 +110,8 @@ Explore the projects where I'm working on and enhancing my skills.<br>
 
 Currently, I'm also focused on expanding my skills in mobile programming...
 ### How to Reach Me:
-Feel free to drop me an email at&nbsp;
-📫 [andreaaf06@gmail.com](mailto:andreaaf06@gmail.com) ou 
-    <a href="mailto:andrea.fonseca.codes@gmail.com">andrea.fonseca.codes@gmail.com</a>
-    
-[![andrea.fonseca.codes@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrea.fonseca.codes@gmail.com)
+Feel free to drop me an email at: &nbsp; andrea.fonseca.codes@gmail.com ou 
+[Clique aqui para me enviar um email](https://www.clicktoemail.com/andreaaf06@gmail.com)
 
 You can also find me on:&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreaafonseca/)
