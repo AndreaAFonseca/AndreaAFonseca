@@ -11,7 +11,8 @@
 <br>
 
 ## 📂 Projects 
-### Published Projects 🔥
+This portfolio contains projects licensed under various licenses. For details about the license for each project, please refer to the LICENSE file located in the project's root directory.
+### Published Projects 
 Here are my completed and published projects. Check them out on Google Play and have fun!<br><br>
 - [Placas Game](https://play.google.com/store/apps/details?id=com.deiapp.plakasgame) 🔍 - **Traffic Sign Memory Game for Education and Entertainment.**<br>
   
@@ -100,17 +101,18 @@ I'm proud to have accomplished every aspect, contributing to every detail of the
 
   This project represented an important milestone in my development as a mobile programmer, inspired by classes, it provided valuable learning, consolidating my skills in Java and Android development.
 <br><br>
-### Training Projects 👩‍💻
+### Training Projects 
 Explore the projects where I'm working on and enhancing my skills.<br>
 - [Ifood](https://github.com/DeiaApps/Ifood) 🔍 Final project to receive course completion certificate,  still under development. 
 - [Apple Watch Rep](https://github.com/DeiaApps/Apple-Watch-Rep) 🔍 Interactive web page developed in Visual Studio Code using JavaScript, HTML, and CSS for customizing the Apple Watch.
 - [Audiobook Track](https://github.com/DeiaApps/AudiobookTrack) 🔍 Web application developed in Visual Studio Code with JavaScript, HTML and CSS for listening to books.
 <br><br>
 
-🌱 Currently, I'm also focused on expanding my skills in mobile programming...
+Currently, I'm also focused on expanding my skills in mobile programming...
 ### How to Reach Me:
 Feel free to drop me an email at&nbsp;
-📫 [andreaaf06@gmail.com](mailto:andreaaf06@gmail.com)
+📫 [andreaaf06@gmail.com](mailto:andreaaf06@gmail.com) ou 
+    <a href="mailto:andrea.fonseca.codes@gmail.com">andrea.fonseca.codes@gmail.com</a>
 
 You can also find me on:&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreaafonseca/)
