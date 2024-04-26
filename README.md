@@ -75,9 +75,10 @@ Here are some technologies and tools I work with:
 
 ## Training Projects 
 - Explore my ongoing projects where I'm enhancing my skills:
-  - [Ifood](https://github.com/DeiaApps/Ifood) Final project to receive course completion certificate,  still under development. 
+  - [Ifood](https://github.com/DeiaApps/Ifood) Final project to receive course completion certificate,  still under development.
+  - [NetWatcher](https://github.com/AndreaAFonseca/NetWatcher) Reusable network connectivity monitoring and analysis class for android apps. 100% Kotlin.
   - [Apple Watch Rep](https://github.com/DeiaApps/Apple-Watch-Rep) Interactive web page developed using JavaScript, HTML, and CSS.
-  - [Audiobook Track](https://github.com/DeiaApps/AudiobookTrack) Web application for listening to books developed using JavaScript, HTML and CSS .
+  - [Audiobook Track](https://github.com/DeiaApps/AudiobookTrack) Web application for listening to books developed using JavaScript, HTML and CSS.
 <br><br>
 
 ## Contact Me
