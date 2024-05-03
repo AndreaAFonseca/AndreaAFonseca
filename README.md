@@ -6,7 +6,7 @@ I'm passionate about creating engaging and user-friendly applications.
 Here are some technologies and tools I work with:
 
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android" width="80" height="80"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="80" height="80"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="90" height="90"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="80" height="80"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="80" height="80"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="80" height="80"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GiHub" width="80" height="80"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postaman" width="80" height="80"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VSCode" width="80" height="80"/> |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | Android Studio | Kotlin | Java | SQLite | MySQL | Firebase | GitHub | Postman | VSCode |
 
 
@@ -82,7 +82,7 @@ Here are some technologies and tools I work with:
 <br><br>
 
 ## Contact Me
-Feel free to reach out via email at andrea.fonseca.codes@gmail.com or connect on [LinkedIn](https://www.linkedin.com/in/andreaafonseca/).
+Feel free to reach out via email at andreaaf06@gmail.com or connect on [LinkedIn](https://www.linkedin.com/in/andreaafonseca/).
 
 
 <!---
